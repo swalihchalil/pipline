@@ -3,10 +3,10 @@ name: Next.js CI
 on:
   push:
     branches:
-      - main
+      - action
   pull_request:
     branches:
-      - action
+      - action-1
 
 jobs:
   build:
