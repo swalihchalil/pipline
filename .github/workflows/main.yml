@@ -6,7 +6,7 @@ on:
       - main
   pull_request:
     branches:
-      - action-1
+      - main
 
 jobs:
   build:
